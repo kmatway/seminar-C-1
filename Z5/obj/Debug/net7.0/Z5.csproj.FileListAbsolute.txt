@@ -1,0 +1,15 @@
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/bin/Debug/net7.0/Z5
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/bin/Debug/net7.0/Z5.deps.json
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/bin/Debug/net7.0/Z5.runtimeconfig.json
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/bin/Debug/net7.0/Z5.dll
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/bin/Debug/net7.0/Z5.pdb
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.csproj.AssemblyReference.cache
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.AssemblyInfoInputs.cache
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.AssemblyInfo.cs
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.csproj.CoreCompileInputs.cache
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.dll
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/refint/Z5.dll
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.pdb
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/Z5.genruntimeconfig.cache
+/Users/ekaterinamatveeva/C#/seminar-C-1/Z5/obj/Debug/net7.0/ref/Z5.dll
